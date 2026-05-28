@@ -5,5 +5,4 @@ libatk-bridge2.0-0
 libdrm2
 libxkbcommon0
 libgbm1
-libasound2
 libxshmfence1
